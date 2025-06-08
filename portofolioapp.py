@@ -127,7 +127,7 @@ yang secara langsung mempengaruhi strategi konten, optimasi kampanye, dan
 keputusan produksi
                     </p>
                     <div class="flex flex-wrap gap-3">
-                        <a href="https://intelmedia3.streamlit.app/" target="_blank" class="inline-block bg-blue-500 hover:bg-blue-600 text-white text-sm py-2 px-4 rounded-full transition duration-200">
+                        <a href="https://github.com/karinaskuy/PORTOFOLIO/blob/main/Screenshot%202025-06-08%20210301.png" alt="AI-Powered Media Insights" class="inline-block bg-blue-500 hover:bg-blue-600 text-white text-sm py-2 px-4 rounded-full transition duration-200">
                             <i class="fas fa-play-circle mr-2"></i> Demo Live
                         </a>
                         <a href="https://github.com/karinaskuy/intelmedia" target="_blank" class="inline-block bg-gray-700 hover:bg-gray-800 text-white text-sm py-2 px-4 rounded-full transition duration-200">
@@ -138,7 +138,7 @@ keputusan produksi
 
                 <!-- Project 2: Suara Kanal Timur -->
                 <div class="bg-white p-6 rounded-xl shadow-lg transform transition duration-300 ease-in-out hover:scale-105 hover:shadow-xl" data-aos="fade-zoom-in" data-aos-delay="200">
-                    <img src="https://placehold.co/600x400/E0F2F7/334155?text=Suara+Kanal+Timur" alt="Suara Kanal Timur" class="w-full h-48 object-cover rounded-lg mb-4 shadow">
+                    <img src="https://github.com/karinaskuy/PORTOFOLIO/blob/main/Screenshot%202025-06-08%20210145.png" alt="Suara Kanal Timur" class="w-full h-48 object-cover rounded-lg mb-4 shadow">
                     <h3 class="text-2xl font-semibold text-gray-900 mb-2">Suara Kanal Timur</h3>
                     <p class="text-gray-700 mb-3 text-sm">Film dokumenter tentang Dea, seorang streamer TikTok yang hidup di sekitar Banjir Kanal Timur.</p>
                     <p class="text-gray-600 text-sm mb-3"><span class="font-medium text-blue-600">Tools:</span> Kamera, teamwork produksi</p>
@@ -150,7 +150,7 @@ keputusan produksi
 
                 <!-- Project 3: Masyarakat Cerdas Sadar Arsip -->
                 <div class="bg-white p-6 rounded-xl shadow-lg transform transition duration-300 ease-in-out hover:scale-105 hover:shadow-xl" data-aos="fade-zoom-in" data-aos-delay="300">
-                    <img src="https://placehold.co/600x400/FDE68A/000?text=Masyarakat+Cerdas+Sadar+Arsip" alt="Masyarakat Cerdas Sadar Arsip" class="w-full h-48 object-cover rounded-lg mb-4 shadow">
+                    <img src="https://github.com/karinaskuy/PORTOFOLIO/blob/main/Screenshot%202025-06-08%20210332.png" alt="Masyarakat Cerdas Sadar Arsip" class="w-full h-48 object-cover rounded-lg mb-4 shadow">
                     <h3 class="text-2xl font-semibold text-gray-900 mb-2">Masyarakat Cerdas Sadar Arsip</h3>
                     <p class="text-gray-700 mb-3 text-sm">Dokumentasi program pengabdian masyarakat yang mengedukasi pentingnya kearsipan keluarga di Pulau Untung Jawa.</p>
                     <p class="text-gray-600 text-sm mb-3"><span class="font-medium text-blue-600">Tools:</span> Kamera, Adobe Premiere Pro</p>
@@ -162,7 +162,7 @@ keputusan produksi
 
                 <!-- Project 4: Analisis Video Iklan Gojek -->
                 <div class="bg-white p-6 rounded-xl shadow-lg transform transition duration-300 ease-in-out hover:scale-105 hover:shadow-xl" data-aos="fade-zoom-in" data-aos-delay="400">
-                    <img src="https://placehold.co/600x400/BAE6FD/0284C7?text=Analisis+Iklan+Gojek" alt="Analisis Iklan Gojek" class="w-full h-48 object-cover rounded-lg mb-4 shadow">
+                    <img src="https://github.com/karinaskuy/PORTOFOLIO/blob/main/Screenshot%202025-06-08%20205949.png" alt="Analisis Iklan Gojek" class="w-full h-48 object-cover rounded-lg mb-4 shadow">
                     <h3 class="text-2xl font-semibold text-gray-900 mb-2">Analisis Video Iklan Gojek</h3>
                     <p class="text-gray-700 mb-3 text-sm">Analisis mendalam terhadap 3 video campaign Gojek menggunakan AI tools untuk mengevaluasi visual, audio, dan efektivitas pesan.</p>
                     <p class="text-gray-600 text-sm mb-3"><span class="font-medium text-blue-600">Tools:</span> Gemini, ChatGPT, Google AI Studio</p>
