@@ -62,7 +62,7 @@ st.markdown("""
         padding: 1rem; /* p-4 */
         text-align: center;
         background: linear-gradient(to bottom right, #eff6ff, #e0f2fe); /* from-blue-50 to-blue-100 */
-        background-image: url('https://placehold.co/1920x1080/E0F2F7/334155?text=Background+Image'); /* Placeholder background */
+        background-image: url('https://github.com/karinaskuy/PORTOFOLIO/blob/main/916b4bd44f429ba9d69e3976d778ae2d.jpg'); /* Placeholder background */
         background-size: cover;
         background-position: center;
     }
